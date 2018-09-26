@@ -65,11 +65,11 @@ a {
 	position: absolute;
 }
 
-#clustrmaps {
-	width: 600px;
-	height: 314px;
-	/*background-color: grey;*/
-	position: absolute;
+#footer {
+    background-color:black;
+    clear:both;
+    text-align:center;
+    padding:5px; 
 }
 
 div#menu > ul li {
