@@ -65,6 +65,13 @@ a {
 	position: absolute;
 }
 
+#clustrmaps {
+	width: 300px;
+	height: 166px;
+	/*background-color: grey;*/
+	position: absolute;
+}
+
 div#menu > ul li {
 	text-align: left;
 	padding: 10px 0px;
